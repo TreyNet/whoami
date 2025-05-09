@@ -38,11 +38,8 @@ Actualmente trabajo en desarrollo web por cuenta ajena y en paralelo desarrollo 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TreyNet&show_icons=true&theme=radical" alt="TreyNet GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TreyNet&layout=compact&theme=radical" alt="Top Langs" />
 </div>
-
-![Snake animation](https://github.com/TreyNet/TreyNet/blob/main/assets/github-contribution-snake.svg)
 
 ---
 

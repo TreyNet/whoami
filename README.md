@@ -6,7 +6,7 @@ Desarrollador de software con experiencia en distintos entornos:
 - 🌐 Programación web full stack usando **React**, **Laravel** y **Node.js**.  
 - 🧩 Desarrollo multiplataforma y backend para distintos tipos de aplicaciones.
 
-Actualmente trabajo en desarrollo web por cuenta ajena y en paralelo desarrollo proyectos de videojuegos.
+Actualmente trabajo en desarrollo web por cuenta ajena y en paralelo desarrollo proyectos de aplicaciones.
 
 ---
 

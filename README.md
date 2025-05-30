@@ -31,6 +31,7 @@ Actualmente trabajo en desarrollo web por cuenta ajena y en paralelo desarrollo 
 
 ## 📂 Proyectos destacados
 
+ - 🌐 PokeMétrix: https://treynet.github.io/pokemetrix/
  - En desarrollo...
 
 ---

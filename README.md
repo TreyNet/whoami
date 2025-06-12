@@ -3,8 +3,8 @@
 Desarrollador de software con experiencia en distintos entornos:
 
 - 🎮 Desarrollo de aplicaciones móviles y videojuegos con **Unity** (iOS y Android).  
-- 🌐 Programación web full stack usando **React**, **Laravel** y **Node.js**.  
-- 🧩 Desarrollo multiplataforma y backend para distintos tipos de aplicaciones.
+- 🌐 Programación web con usando **React** y **Node**.  
+- 🧩 Desarrollo multiplataforma para distintos tipos de aplicaciones.
 
 Actualmente trabajo en desarrollo web por cuenta ajena y en paralelo desarrollo proyectos de aplicaciones.
 

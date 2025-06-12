@@ -2,7 +2,7 @@
 
 Desarrollador de software con experiencia en distintos entornos:
 
-- 🎮 Desarrollo de aplicaciones móviles y videojuegos con **Unity** (iOS y Android).  
+- 🎮 Desarrollo de aplicaciones móviles con **React Native** (iOS y Android) y videojuegos con **Unity**.  
 - 🌐 Programación web con usando **React** y **Node**.  
 - 🧩 Desarrollo multiplataforma para distintos tipos de aplicaciones.
 
@@ -24,7 +24,7 @@ Actualmente trabajo en desarrollo web por cuenta ajena y en paralelo desarrollo 
 
 ### 🔄 Otros lenguajes y herramientas:
 - **Python** – Scripts y automatizaciones.
-- **Node.js** – Backend con JavaScript.
+- **Node** – Backend con JavaScript.
 - **Firebase**, **Git**, entre otros.
 
 ---

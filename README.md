@@ -6,7 +6,7 @@ Desarrollador de software con experiencia en distintos entornos:
 - 🌐 Programación web usando **React** y **Express**.  
 - 🧩 Desarrollo multiplataforma para distintos tipos de aplicaciones.
 
-Actualmente trabajo en diferentes proyectos multiplataforma..
+Actualmente trabajo en diferentes proyectos multiplataforma.
 
 ---
 

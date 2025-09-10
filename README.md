@@ -3,18 +3,17 @@
 Desarrollador de software con experiencia en distintos entornos:
 
 - 🎮 Desarrollo de aplicaciones móviles con **React Native** (iOS y Android) y videojuegos con **Unity**.  
-- 🌐 Programación web usando **React** y **Node**.  
+- 🌐 Programación web usando **React** y **Express**.  
 - 🧩 Desarrollo multiplataforma para distintos tipos de aplicaciones.
 
-Actualmente trabajo en desarrollo web por cuenta ajena y en paralelo desarrollo proyectos de aplicaciones.
+Actualmente trabajo en diferentes proyectos multiplataforma..
 
 ---
 
 ## 🛠️ Tecnologías que utilizo
 
 ### 👨‍💻 Desarrollo Web:
-- **JavaScript** – Interfaces dinámicas con **React**.
-- **PHP** – Backend con **Laravel**.
+- **JavaScript & TypeScript** – Interfaces dinámicas y microfrontends con **React** y desarrollo de API con **Express**.
 - **HTML & CSS** – Estructura y estilos web.
 
 ### 📱 Aplicaciones móviles y videojuegos:
@@ -24,13 +23,13 @@ Actualmente trabajo en desarrollo web por cuenta ajena y en paralelo desarrollo 
 
 ### 🔄 Otros lenguajes y herramientas:
 - **Python** – Scripts y automatizaciones.
-- **Node** – Backend con JavaScript.
+- **PHP & Java** – Backend.
 - **Firebase**, **Git**, entre otros.
 
 ---
 
 ## 📂 Proyectos destacados
-
+ - 🌐 treynetcodes: https://treynetcodes.vercel.app/
  - 🌐 PokeMétrix: https://treynet.github.io/pokemetrix/
  - En desarrollo...
 

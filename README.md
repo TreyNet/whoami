@@ -2,7 +2,7 @@
 
 Desarrollador de software con experiencia en distintos entornos:
 
-- 🎮 Desarrollo de aplicaciones móviles con **React Native** (iOS y Android) y videojuegos con **Unity**.  
+- 🎮 Desarrollo de aplicaciones móviles con **Android Jetpack Compose** y videojuegos con **Unity**.  
 - 🧩 Programación web usando **React** y **Node**.  
 - 🛡️ En proceso de especialización en ciberseguridad ofensiva y análisis de vulnerabilidades.
 
@@ -13,18 +13,17 @@ Actualmente trabajo en diferentes proyectos multiplataforma.
 ## 🛠️ Tecnologías que utilizo
 
 ### 👨‍💻 Desarrollo Web:
-- **JavaScript & TypeScript** – Interfaces dinámicas y microfrontends con **React** y desarrollo de API con **Express**.
+- **JavaScript & TypeScript** – Interfaces dinámicas y microfrontends con **React** y desarrollo de API con **Node**.
 - **HTML & CSS** – Estructura y estilos web.
 
 ### 📱 Aplicaciones móviles y videojuegos:
 - **C#** – Videojuegos con **Unity**.
-- **Kotlin** – Aplicaciones nativas Android.
-- **Swift** – Aplicaciones nativas iOS.
+- **Kotlin** – Aplicaciones multiplataforma con **Android Jetpack Compose**.
 
 ### 🔄 Otros lenguajes y herramientas:
 - **Python** – Scripts y automatizaciones.
 - **PHP & Java** – Backend.
-- **Firebase**, **Git**, entre otros.
+- **Firebase**, **Git**, entre otras.
 
 ---
 

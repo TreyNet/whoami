@@ -3,8 +3,8 @@
 Desarrollador de software con experiencia en distintos entornos:
 
 - 🎮 Desarrollo de aplicaciones móviles con **React Native** (iOS y Android) y videojuegos con **Unity**.  
-- 🌐 Programación web usando **React** y **Node**.  
-- 🧩 Desarrollo multiplataforma para distintos tipos de aplicaciones.
+- 🧩 Programación web usando **React** y **Node**.  
+- 🛡️ En proceso de especialización en ciberseguridad ofensiva y análisis de vulnerabilidades.
 
 Actualmente trabajo en diferentes proyectos multiplataforma.
 

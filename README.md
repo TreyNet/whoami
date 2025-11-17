@@ -1,36 +1,35 @@
-# 👋 Hola, soy @treynetcodes [Javier]
+# Hi, I’m @treynetcodes — Javier
 
-Desarrollador de software con experiencia en distintos entornos:
+I’m a software developer building **websites**, **multiplatform applications**, and **video games**.
+Although I originally started my career in the tourism industry —a path that somehow also led me to code— I now focus on software development and creating my own applications.
 
-- 🎮 Desarrollo de aplicaciones móviles con **Android Jetpack Compose** y videojuegos con **Unity**.  
-- 🧩 Programación web usando **React** y **Node**.  
-- 🛡️ En proceso de especialización en ciberseguridad ofensiva y análisis de vulnerabilidades.
+To avoid the wonderful scenario of building something that looks like it works but is actually full of holes, I decided to train as a **penetration tester**. What began as a way to secure my own projects became a genuine passion, so I continue studying offensive security almost instinctively and for peace of mind.
 
-Actualmente trabajo en diferentes proyectos multiplataforma.
+Today, I combine software development with a growing specialization in cybersecurity, aiming to build applications that are attractive, functional, and —above all— secure.
 
 ---
 
-## 🛠️ Tecnologías que utilizo
+## 🛠️ Technologies I Use
 
-### 👨‍💻 Desarrollo Web:
-- **JavaScript & TypeScript** – Interfaces dinámicas y microfrontends con **React** y desarrollo de API con **Node**.
-- **HTML & CSS** – Estructura y estilos web.
+### 👨‍💻 Desarrollo Web
+- **JavaScript & TypeScript** – Dynamic interfaces and microfrontends with **React**, and API development with **Node**.
+- **HTML & CSS** – Web structure and styling.
 
-### 📱 Aplicaciones móviles y videojuegos:
-- **C#** – Videojuegos con **Unity**.
-- **Kotlin** – Aplicaciones multiplataforma con **Android Jetpack Compose**.
+### 📱 Mobile Apps & Video Games
+- **C#** – Game development with **Unity**.
+- **Kotlin** – Multiplatform applications with **Jetpack Compose**.
 
-### 🔄 Otros lenguajes y herramientas:
-- **Python** – Scripts y automatizaciones.
+### 🔄 Other Languages & Tools
+- **Python** – Scripts and automation.
 - **PHP & Java** – Backend.
-- **Firebase**, **Git**, entre otras.
+- **Firebase**, **Git**, and more.
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Featured Projects
  - 🌐 treynetcodes: https://treynetcodes.vercel.app/
  - 🌐 PokeMétrix: https://treynet.github.io/pokemetrix/
- - En desarrollo...
+ - 🚧 More in development...
 
 ---
 

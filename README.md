@@ -27,8 +27,8 @@ Today, I combine software development with a growing specialization in cybersecu
 ---
 
 ## 📂 Featured Projects
- - 🌐 treynetcodes: https://treynetcodes.vercel.app/
- - 🌐 PokeMétrix: https://treynet.github.io/pokemetrix/
+ - 🌐 [treynetcodes](https://treynetcodes.vercel.app/)
+ - 🌐 [PokeMétrix](https://treynetcodes.vercel.app/pokemetrix))
  - 🚧 More in development...
 
 ---

@@ -11,7 +11,7 @@ Today, I combine software development with a growing specialization in cybersecu
 
 ## 🛠️ Technologies I Use
 
-### 👨‍💻 Desarrollo Web
+### 👨‍💻 Web Development
 - **JavaScript & TypeScript** – Dynamic interfaces and microfrontends with **React**, and API development with **Node**.
 - **HTML & CSS** – Web structure and styling.
 
@@ -21,7 +21,7 @@ Today, I combine software development with a growing specialization in cybersecu
 
 ### 🔄 Other Languages & Tools
 - **Python** – Scripts and automation.
-- **PHP & Java** – Backend.
+- **PHP** – Backend.
 - **Firebase**, **Git**, and more.
 
 ---
